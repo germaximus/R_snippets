@@ -1,6 +1,5 @@
 # Useful code snippets for sequencing data analysis   
 
-Useful code snippets
 <details><summary><b>Testing DNA indices</b></summary>
 
 ```R
