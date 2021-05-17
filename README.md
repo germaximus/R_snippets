@@ -1,6 +1,6 @@
-# R_snippets
-Useful code snippets
+# Useful code snippets for sequencing data analysis   
 
+Useful code snippets
 <details><summary><b>Testing DNA indices</b></summary>
 
 ```R
